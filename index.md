@@ -3,8 +3,16 @@
 This is a collection of my projects
 
 ### Project Raina
+This is a 1 month protoype of a Hero Based Tower Defense  
+
+Key Feaures:
+- Hero Based Ability and turrets
+- turrets are a combination of a soldier and a turret to create customisable turrets
+- Source: Source code will be provided upon request
 
 
+![](ProjectRaina1.gif)
+![](ProjectRaina2.gif)
 
 ### Demon V Heroes
 
